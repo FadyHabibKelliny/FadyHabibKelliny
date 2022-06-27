@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FadyHabibKelliny
 - 👀 I’m interested in DevOps Engineering
-- 🌱 I’m cCertifaed with Advanced Cloud DevOps Nanodegree from Udacity
+- 🌱 I’m Certifaed with Advanced Cloud DevOps Nanodegree from Udacity
 - 💞️ I’m looking for DevOps Opportunity
 - 📫 reach me via linkedin https://www.linkedin.com/in/fady-habib-0354a7b4/
 
